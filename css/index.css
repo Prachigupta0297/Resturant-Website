@@ -1,0 +1,696 @@
+         *
+			{
+				margin: 0px;
+				padding: 0px;
+			}
+			#bg
+			{
+				background-image:url(../images/img2.jpg);
+				background-size: 100% 38%;
+				background-repeat: no-repeat;
+				filter: blur 5000px;
+			}
+			#header
+			{
+				height: 70px;
+				width: 100%;
+				background: black;
+			}
+			#logobar
+			{
+				height: 100px;
+				width: 10%;
+				color: white;
+				font-size: 30px;
+				position: absolute;
+				top: 20px;
+				left: 20px;
+		    }
+		    #logobar:hover
+		    {
+		    	background: red;
+		    	height: 40px;
+		    	width: 150px;
+		    }
+		    .meenu ul li
+		    {
+		    	position: relative;
+		    	left: 600px;
+		    	top: 30px;
+		    	float: left;
+		    	margin-right: 50px;
+
+		    }
+		    .meenu ul li:hover
+		    {
+		    	background: red;
+		    }
+		    .meenu ul li a
+		    {
+		    	color: white;
+		    	text-decoration: none;
+		    	font-size: 15px;
+		    }
+
+			.book ul li
+		    {
+		    	position: absolute;
+		    	left: 500px;
+		    	top: 550px;
+				height: 30px;
+				width: 150px;
+				font-size: 20px;
+				background: black;
+				text-align: center;
+				border: 1px solid gray;
+		    	float: left;
+		    	margin-left: 100px;
+
+		    }
+		    .book ul li:hover
+		    {
+		    	background: red;
+		    }
+		    .book ul li a
+		    {
+		    	color: white;
+		    	text-decoration: none;
+		    	font-size: 15px;
+		    }
+
+			.oder ul li
+		    {
+		    	position: absolute;
+		    	left: 700px;
+		    	top: 550px;
+				height: 30px;
+				width: 150px;
+				font-size: 20px;
+				background: black;
+				text-align: center;
+				border: 1px solid gray;
+		    	float: left;
+		    	margin-left: 100px;
+
+		    }
+		    .oder ul li:hover
+		    {
+		    	background: red;
+		    }
+		    .oder ul li a
+		    {
+		    	color: white;
+		    	text-decoration: none;
+		    	font-size: 15px;
+		    }
+
+
+		    #text
+		    {
+		    	color:black;
+		    	font-size:200px;
+		    	font-family: 'Brush Script MT';
+		    	position: absolute;
+		    	left: 400px;
+		    	top: 200px;
+
+		    }
+		    #text1
+		    {
+		    	color: black;
+		    	font-size: 60px;
+		    	position: absolute;
+		    	left: 560px;
+		    	top: 400px;
+
+		    }
+		    #book
+		    {
+		    	color: white;
+		    	background: black;
+		    	font-size: 20px;
+		    	height: 30px;
+		    	width: 150px;
+		    	position: absolute;
+		    	left: 560px;
+		    	top: 550px;
+		    }
+		    #book:hover
+		    {
+		    	background: red;
+		    }
+		    #order
+		    {
+		    	color: white;
+		    	background: black;
+		    	font-size: 20px;
+		    	height: 30px;
+		    	width: 150px;
+		    	position: absolute;
+		    	left: 800px;
+		    	top: 550px;
+		    }
+		    #order:hover
+		    {
+		    	background: red;
+		    }
+		    #about
+		    {
+		    	
+		    	border: 5px solid black;
+		    	height: 40px;
+		    	width: 450px;
+		    	position: absolute;
+		    	left: 500px;
+		    	top: 800px;
+		    	text-align: center;
+		    	margin-bottom: 40;
+		    }
+		    .img2
+		    {
+		    	height: 100px;
+		    	width: 250px;
+		    	position: absolute;
+		    	top: 100px;
+		    	left: 100px;
+		    }
+		    #p
+		    {
+              position: relative;
+              top: 200px;
+              left: 10px;
+            }
+            #img3
+            {
+               height: 188px;
+               width: 300px;
+               
+               border: 2px solid white;
+
+            }   
+            #img4
+            {
+            	height: 188px;
+            	width: 300px;
+            	
+            	border: 2px solid white;
+            }
+            #img5
+            {
+            	
+            	border: 2px solid white;
+
+            } 
+            #img6
+            {
+            	
+            	width:288px ;
+            	border: 2px solid white;
+            } 
+            #img7
+            {
+            	
+            	width: 285px;
+            	border: 2px solid white;
+
+            } 
+            #img8
+            {
+            	height: 200px;
+            	width: 200px;
+            	
+            	height: 500px;
+            	width: 1100px;
+				position: relative;
+				left: 200px;
+
+            }
+            #aford
+            {
+            	position: absolute;
+            	left: 600px;
+            	top:1700px ;
+            	font-size: 100px;
+            	color: white;
+
+            }
+            #price
+            {
+            	position: absolute;
+               left: 650px;
+               top: 1800px;
+               font-size: 100px;
+               color: white;
+            }
+            .meenu2 ul li
+            {
+            	float: left;
+            	margin-right: 15px;
+            	position: relative;
+            	top: 450px;
+            	left: 450px;
+
+            }
+            .meenu2 ul li:hover
+            {
+            	background: red;
+            }
+            .meenu2 ul li a
+            {
+            	font-size: 25;
+            	margin-right: 35px;
+            	color: black;
+            	text-decoration: none;
+            	
+
+            }
+            #img11
+            {
+            	height: 200px;
+            	width: 200px;
+            	position: absolute;
+            	top: 2100px;
+            	left: 500px;
+            }	
+            #img12
+            {
+            	height: 200px;
+            	width: 200px;
+            	position: absolute;
+            	top: 2100px;
+            	left: 750px;
+            }
+            #img13
+            {
+            	height: 200px;
+            	width: 200px;
+            	position: absolute;
+               top: 2100px;
+               left: 1000px;
+            }
+
+            .first
+            {
+            	font-size: 25px;
+            	border: 2px solid black;
+            	background: red;
+            	color: white;
+            	position: absolute;
+            	top: 2280px;
+            	left: 500px;
+            	height: 30px;
+            	width: 200px;
+	            	text-align: center;
+      
+
+
+            }
+            .second
+            {
+            	font-size: 25px;
+            	border: 2px solid black;
+            	background: red;
+            	color: white;
+            	position: absolute;
+            	top: 2280px;
+               left: 750px;
+               height: 30px;
+               width: 200px;
+               text-align: center;
+            }
+            .third
+            {
+            	font-size: 25px;
+            	border: 2px solid black;
+            	background: red ;
+            	color: white;
+            	position: absolute;
+            	top: 2280px;
+            	left: 1000px;
+               height: 30px;
+               width: 200px;
+               text-align: center;
+            }
+            #img21
+            {
+            	
+            	
+            	position: absolute;
+            	top: 2400px;
+            	left: 190px;*/
+            }
+            #great 
+            {
+            	color: white;
+            	position: absolute;
+            	top: 2496px;
+            	left: 460px;
+               font-size: 40px;
+            }
+            #beer
+            {
+            	font-size: 25px;
+            	color: red;
+            	position: absolute;
+            	top: 2500px;
+            	left: 1000px;
+            }	
+            #box
+            {
+            	border: 2px solid black;
+            	width: 800px;
+            	height: 400px;
+            	position: absolute;
+            	top: 2850px;
+            	left: 190px;
+            	margin: 10px auto;
+            	overflow: hidden;
+            }
+            #box img
+            {
+            	width: 100%;
+            	height: 100%;
+            }
+            .container
+            {
+            	color: #fff;
+            	width: 100%;
+            	height: 100%;
+            	padding: 20px;
+            	position: absolute;
+               top: -2850px;
+               left: 300px;
+               background: rgba(0,0,0,0.3);
+               transition: all 0.5s;
+            }
+            #box:hover.container
+            {
+            	top: 0px;
+            }
+            #Reserve
+            {
+               color: white;
+               font-size: 50px;
+               position: absolute;
+               top: 3150px;
+               left: 430px;
+            }
+            #img35
+            {
+            	height: 150px;
+            	width: 350px;
+            	position: absolute;
+            	top: 2900px;
+            	left: 1100px;
+            	border: 2px solid black;
+            }
+            #img36
+            {
+            	height: 150px;
+            	width: 350px;
+            	position: absolute;
+            	top: 3100px;
+            	left: 1100px;
+            	border: 2px solid black;
+            }
+            #R
+            {
+            	position: absolute;
+            	top: 3060px;
+            	left: 1170px;
+            	font-size: 12px;
+
+            }
+            #first
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3380px;
+            	left: 460px;
+            	border:2px solid black;
+            	height: 40px;
+            	width: 150px;
+            	text-align: center;
+               padding-top: 10px;
+
+            }
+            #last
+            {
+               font-size: 20px;
+               position: absolute;
+               top: 3450px;
+               left: 460px;
+               border: 2px solid black;
+               height: 40px;
+               width: 150px;
+               text-align: center;
+               padding-top: 10px;
+
+
+            }
+            #state
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3520px;
+            	left: 460px;
+            	border: 2px solid black;
+            	height: 40px;
+            	width: 150px;
+           	   text-align: center;
+           	   padding-top: 10px;
+            	padding-right:px;
+
+            }
+            #reservation
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3590px;
+            	left: 460px;
+            	border: 2px solid black;
+            	height: 40px;
+            	width: 150px;
+            	text-align: center;
+            	padding-top: 10px;
+            	padding-left: 5px;
+
+            } 
+            #phone
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3380px;
+            	left: 760px;
+            	border: 2px solid black;
+            	height: 40px;
+            	width: 150px;
+            	text-align: center;
+            	padding-top: 10px;
+
+            }
+            #guest
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3450px;
+            	left: 760px;
+            	border: 2px solid black;
+            	height: 40px;
+            	width: 150px;
+            	text-align: center;
+            	padding-top: 10px;
+
+            }
+            #email
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top:3520px ;
+            	left: 760px;
+            	border: 2px solid black;
+            	height: 40px;
+            	width: 150px;
+            	text-align: center;
+            	padding-top: 10px;
+            }
+            #subject
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top:3590px ;
+            	left: 760px;
+            	border: 2px solid black;
+            	height: 40px;
+            	width: 150px;
+            	text-align: center;
+            	padding-top: 10px;
+            }
+            #reserveb
+            {
+            	font-size: 20px;
+            	height: 50px;
+            	width: 200px;
+            	background: green;
+            	color: white;
+            	position: absolute;
+            	top: 3690px;
+            	left: 580px;
+           
+
+            }
+            #reserveb:hover
+            {
+            	background: red;
+            }
+            #hours
+            {
+            	font-size: 30px;
+            	position: absolute;
+            	top: 3780px;
+            	left: 750px;
+
+
+            }
+            #mon1
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3860px;
+            	left: 620px;
+            }
+            #mon2
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3890px;
+            	left: 620px;
+
+            }
+            #mon3
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3920px;
+            	left: 620px;
+            
+            
+
+            }
+            #mon4
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3950px;
+            	left: 620px;
+
+            }
+            #mon5
+            {
+            	font-size: 20px;
+            	position: absolute;
+            	top: 3980px;
+               left: 620px;
+            }
+            #border
+            {
+            	height: 100px;
+            	width: 100%;
+            	background: black;
+            	color: green;
+            	position: absolute;
+            	top: 4200px;
+            	text-align: center;
+            	
+            
+
+
+            }
+            #no
+            {
+            	color: white;
+            	position: absolute;
+            	top: 5px;
+            	left: 960px;
+            }
+            .tw 
+            {
+            	color: white;
+            	position: absolute;
+            	top: 10px;
+            	left:720px;
+            }
+            .fb
+            {
+            	color: white;
+            	position: absolute;
+            	top: 10px;
+            	left: 750px;
+
+            }
+            html
+            {
+               scroll-behavior: smooth;
+            }
+			.btn
+{
+	padding: 10px 60px;
+	background: #fff;
+	border:0;
+	outline: none;
+	cursor: pointer;
+	font-size: 22px;
+	font-weight: 500;
+	border-radius: 30px;
+}
+.popup
+{
+	width: 400px;
+	background: #fff;
+	border-radius: 6px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translate(-50%,-50%) scale(0.1);
+	text-align: center;
+	padding: 0 30px 30px;
+	color: #333;
+	visibility: hidden;
+}
+.open-popup
+{
+	visibility: visible;
+	top:3600px;
+	transform: translate(-50%,-50%) scale(1);
+}
+.popup img{
+	width: 100px;
+	margin-top: -50px;
+	border-radius: 50%;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.popup h2{
+	font-size: 38px;
+	font-weight: 500;
+	margin: 30px 0 10px;
+}
+.popup button
+{
+	width: 100%;
+	margin-top: 50px;
+	padding: 10px 0;
+	background-color: #6fd649;
+	color: #fff;
+	border: 0;
+	outline: none;
+	font-size: 18px;
+	border-radius: 4px;
+	cursor: pointer;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+        
+        
+    
+   
+          
+		</style>
